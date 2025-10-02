@@ -31,5 +31,5 @@ El objetivo es asignar una tripulación de 20 empleados a 10 vuelos diferentes, 
 ## Autores
 
 - Ibrahim Imanol Jordi Arquiñigo Jacinto
-- [Nombre del Alumno 2]
+- Ian Joaquin Sanchez Alva
 - [Nombre del Alumno 3]
