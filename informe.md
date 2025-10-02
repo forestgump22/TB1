@@ -3,10 +3,11 @@
 **Tópicos en Ciencias de Computación - 2025-2**
 
 - **Integrantes:**
-  - [Nombre del Alumno 1]
-  - [Nombre del Alumno 2]
-  - [Nombre del Alumno 3]
-- **Profesor:** [Nombre del Profesor]
+Ibrahim Imanol Jordi Arquiñigo Jacinto
+    "  - Ian Joaquin Sanchez Alva
+    "  - Eduardo Jose Rivas Siesquen
+    "  - Daniel Orlando Luis Lázaro 
+- **Profesor:** Luis Martin Canaval Sanchez
 - **Fecha:** 27 de setiembre de 2025
 
 ---
