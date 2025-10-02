@@ -32,4 +32,4 @@ El objetivo es asignar una tripulación de 20 empleados a 10 vuelos diferentes, 
 
 - Ibrahim Imanol Jordi Arquiñigo Jacinto
 - Ian Joaquin Sanchez Alva
-- [Nombre del Alumno 3]
+- Daniel Orlando Luis Lázaro
