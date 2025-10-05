@@ -1,3 +1,4 @@
+### **Informe de Proyecto (TB1): Modelado y Solución del Problema de Optimización del Horario de un Ensayo de Orquesta mediante Búsqueda Sistemática en Python**
 
 **Tópicos en Ciencias de Computación - 2025-2**
 
