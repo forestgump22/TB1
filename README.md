@@ -44,7 +44,7 @@ El problema se resolvió mediante un algoritmo de **búsqueda exhaustiva sistem�
 
 ## 👥 Autores
 
--   [Nombre del Alumno 1]
+-   Ian Joaquin Sanchez Alva
 -   [Nombre del Alumno 2]
 
 ---
